@@ -10,6 +10,10 @@
 * Easy Interface:
 AstraScan has a straightforward interface for effortless QR code generation.
 
+#### Preview:
+
+![Demo](https://github.com/alphaotuken/AstraScan/assets/100890340/8f1e57ce-3141-4847-9ef8-34c4bfb73e3e)
+
 #### Contact
 
 If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/taloisik).
